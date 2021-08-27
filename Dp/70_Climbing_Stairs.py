@@ -3,7 +3,9 @@
 Created on Sat Aug 28 01:45:31 2021
 
 @author: user
+
 """
+# https://ithelp.ithome.com.tw/articles/10218585
 # God:
 class Solution(object):
     def climbStairs(self, n):
